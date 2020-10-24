@@ -10,6 +10,8 @@ Feel free to use some or all of these ideas for your own side projects and have 
     - [ ] CLI
     - [ ] Desktop native app
     - [ ] Mobile native app
+- [ ] Projekt server folder tool to create, manage, and sync project folders  
 - [ ] Web based household work planner
 - [ ] Type racing game for the command line
 - [ ] Stat visualizer for typeracer.com
+- [ ] Microcontroller-based standing desk height controller
